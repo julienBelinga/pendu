@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1574213680 source:c:\users\julie\desktop\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dico_mot.h"
+
+1574213836 c:\users\julie\desktop\pendu\dico_mot.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+
